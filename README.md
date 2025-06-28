@@ -15,8 +15,8 @@ ThinkSpace is an intelligent mind map generator that transforms plain text notes
 
 ---
 
-## 🖼️ Screenshots
-
+| Input Interface | Generated Mind Map |
+|-----------------|--------------------|
 | ![FE Screenshot](screenshots/frontend.png) | ![mindmap Screenshot](screenshots/mindmap.png) |
 
 ---
